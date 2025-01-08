@@ -1,0 +1,146 @@
+[centre][b][size=150]欢迎来到我的主页！[/size][/b]
+我啥都玩。
+[b][size=150]Welcome to my homepage![/size][/b]
+I play all modes.[/centre]
+
+[centre][b][url=https://live.bilibili.com/4446335][size=150]Bilibili Live[/size][/url][/b]
+不定期直播打osu!
+Live streaming from time to time to play osu![/centre]
+
+
+[box=About Me]
+
+[centre]我是以休闲为主的玩家，我相信提高技术的过程是循序渐进以及水到渠成的。
+我同时是GNU/Linux用户，所以我主要游玩osu!lazer。
+
+I'm mainly a casual gamer and I believe that the process of improving my skills is gradual as well as watered down.
+I am also a GNU/Linux user, so I mainly play osu!lazer.
+
+[img]https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/my-computer.png[/img]
+
+[b]Keyboard I: [/b]Meowpad V2 SE with TTC 万磁王轴 (osu!standard & osu!catch)
+[b]Keyboard II: [/b]Irok NA87 Pro (osu!taiko & osu!mania)
+[b]Tablet: [/b]Wacom CTL-472
+[b]Tablet Area: [/b]64mm * 40mm
+
+[img]https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/otd-settings.png[/img][/centre]
+
+[centre][url=http://s05.flagcounter.com/more/EaGX][img]https://s05.flagcounter.com/count2/EaGX/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_1/flags_0/percent_0/[/img][/url][/centre]
+
+[/box]
+
+
+[box=Collabs]
+
+[box=BFF2 Team Meixianghao Collab]
+[size=120]-------------natsume umi------------------------AsumiMiuna---------------------------ZnCookie--------------[/size]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2025-01-07.jpg
+5 10 40 60 https://osu.ppy.sh/users/17069002 natsume umi
+30 10 40 60 https://osu.ppy.sh/users/34718076 AsumiMiuna
+65 10 40 60 https://osu.ppy.sh/users/18230719 ZnCookie
+[/imagemap][/centre]
+[/box]
+
+[box=HBR 31A Collab]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-12-21.jpg
+45.91 16.03 14.37 7.37 https://osu.ppy.sh/users/18468376 DesoLaTiON
+65.88 9.75 13.79 6.68 https://osu.ppy.sh/users/8386591 sxy62146214
+3.76 27.08 12.92 6.89 https://osu.ppy.sh/users/33052138 Moriko_
+24.69 24.28 12.25 7.57 https://osu.ppy.sh/users/20989945 Kamiyama Shiki
+40.12 56.27 13.79 7.16 https://osu.ppy.sh/users/18230719 ZnCookie
+74.85 60.91 12.92 7.57 https://osu.ppy.sh/users/25558684 [Crz]XiaoJun
+[/imagemap][/centre]
+[/box]
+
+[box=KonoYuki]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-12-05.jpg
+67 19 26 44 https://osu.ppy.sh/users/18230719 ZnCookie
+4 10 17 24 https://osu.ppy.sh/users/28542837 KonoYuki
+[/imagemap][/centre]
+[centre][s]My waifu[/s][/centre]
+[/box]
+
+[box=(2024.12.2)我们是超级小团体]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-12-02.png
+65 5.1 28.2 8.1 https://osu.ppy.sh/users/35475253 AiXing1145134
+57.9 29.9 19 7.8 https://osu.ppy.sh/users/34153934 Smile
+43.5 41.3 19.7 5 https://osu.ppy.sh/users/33091136 MengLiYL
+48.2 20 20.6 5.3 https://osu.ppy.sh/users/30973609 MoeRain233
+20.5 34.7 27.4 6.7 https://osu.ppy.sh/users/33102208 Reincarnation13
+0 28.3 20 6.8 https://osu.ppy.sh/users/27368979 baicai492
+21.4 22.2 22 6.2 https://osu.ppy.sh/users/35791473 refLect_awa
+0.1 14.8 24 5.1 https://osu.ppy.sh/users/21919776 Runick Fountain
+33 14.3 17.2 4.9 https://osu.ppy.sh/users/36323631 Mos1ey
+50.4 61.4 26.1 9.7 https://osu.ppy.sh/users/36409902 Chiyarara
+47.7 6.3 17 5.5 https://osu.ppy.sh/users/20044753 shenzhe
+41 0.2 16.3 4.3 https://osu.ppy.sh/users/32396623 daring tact
+24.7 2.3 16.3 4.6 https://osu.ppy.sh/users/18230719 ZnCookie
+9.3 7.4 22.7 4.9 https://osu.ppy.sh/users/33879454 Star_tsuki
+8 55.1 31.9 11.6 https://osu.ppy.sh/users/33463029 - Inui JaHuLi -
+32.6 70.5 26 6 https://osu.ppy.sh/users/35628968 SisypheOvO
+[/imagemap][/centre]
+[/box]
+
+[box=A Special Friend. (Joined in Nov 2024)]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-11-18.png
+12 42 1584 2046 https://osu.ppy.sh/users/18230719 ZnCookie
+61 19 1584 2046 https://osu.ppy.sh/users/33008308 RemindLight
+[/imagemap][/centre]
+[/box]
+
+[box=My Friend Koibroken2]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-11-02.png
+5.1667 25.25 33.3333 49 https://osu.ppy.sh/users/18230719 ZnCookie
+28.1667 0 72.1667 25 https://osu.ppy.sh/users/16822918 Koibroken2
+[/imagemap][/centre]
+[/box]
+
+[box=AsumiMiuna]
+[centre][color=#CDCDC1]I'll end it all.And[/color]
+[size=230][b][color=#EE82EE]Testify[/color][/b][/size][/centre]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-10-19.jpg
+55 10 40 40 https://osu.ppy.sh/users/34718076 AsumiMiuna
+5 10 40 40 https://osu.ppy.sh/users/18230719 ZnCookie
+[/imagemap][/centre]
+[centre][color=#CDCDC1]With is your[/color] [color=#FFB6C1]reminiscences[/color], [color=#CDCDC1]Take[/color] [color=#FFA07A]me[/color] [color=#CDCDC1]to where[/color] [color=#BBFFFF]you[/color] [color=#CDCDC1]are.[/color][/centre]
+[/box]
+
+[box=Dragon_Rhyme & - Inui JaHuLi -]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-10-02.jpg
+2.2 21.8 29.2 57.4 https://osu.ppy.sh/users/18230719 ZnCookie
+32.6 16.3 31.7 59.2 https://osu.ppy.sh/users/32270642 Dragon_Rhyme
+65.4 15.3 33.4 59.5 https://osu.ppy.sh/users/33463029 - Inui JaHuLi -
+[/imagemap][/centre]
+[/box]
+
+[box=FP]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-08-13.png
+6.1 0.4 30.4 23.7 https://osu.ppy.sh/users/36062235 21awa12
+37.5 1 32.6 29.4 https://osu.ppy.sh/users/22177500 Acat0721
+3.1 23.5 30.6 25.7 https://osu.ppy.sh/users/35529699 hx123yx
+70.3 0.5 24.6 26.3 https://osu.ppy.sh/users/35678806 cold fish
+1.7 49.4 36 40.5 https://osu.ppy.sh/users/31851527 coconut123
+58.9 28.1 36.6 32 https://osu.ppy.sh/users/16471586 Yamiyami
+36.7 60.7 39.4 36.5 https://osu.ppy.sh/users/18230719 ZnCookie
+76.3 61.6 23.7 28.2 https://osu.ppy.sh/users/33979116 Umino Miyako
+[/imagemap][/centre]
+[/box]
+
+[box=My Friend ShiroHanaSaki]
+[centre][imagemap]
+https://raw.githubusercontent.com/ZnCookie/osu-profile/refs/heads/main/2024-07-08.png
+1 10 49 70 https://osu.ppy.sh/users/31090401 ShiroHanaSaki
+48 10 49 65 https://osu.ppy.sh/users/18230719 ZnCookie
+[/imagemap][/centre]
+[/box]
+
+[/box]
